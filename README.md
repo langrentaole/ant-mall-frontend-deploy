@@ -2,4 +2,5 @@
 ## Step1. 运行start-fronted.bat
 
 ## Step2. 打开浏览器
-输入 [[localhost:9991]]
+输入 [localhost:9991](http://localhost:9991)
+
